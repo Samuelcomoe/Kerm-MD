@@ -26,7 +26,7 @@
 
 ## Obtenir Kerm-MD🎊
 
-1. Veillez cliquer sur **[Fork](https://github.com/Kermhack5/Kerm-MD)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
+1. Veillez cliquer sur **[Fork](https://github.com/Kermhack5/Kerm-MD/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
 2. Obtenez une session du bot : <br>
   [Session-ID](https://replit.com/@Kermhack5) <br>
