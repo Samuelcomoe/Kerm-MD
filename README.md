@@ -13,7 +13,7 @@
 
 - **Téléchargement de Fichiers :** Kerm-MD peut télécharger des fichiers audio et vidéo à partir de liens que vous lui envoyez, pour que vous puissiez les partager facilement avec vos contacts.
 
-- **Gestion de Groupe :** Kerm-MD offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres.
+- **Gestion de Groupe :** **Kerm-MD** offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres.
 
 - **Text to img :** Les meilleurs logos on été sélectionné pour votre confort.
 
@@ -24,11 +24,11 @@
 
 ## Obtenir Kerm-MD🎊
 
-1. Veillez cliquer sur ***[Fork Kerm-MD here](https://github.com/Kermhack5/Kerm-MD/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
+1. Veillez cliquer sur **[Fork Kerm-MD here](https://github.com/Kermhack5/Kerm-MD/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
 2. Obtenez une session du bot : <br>
-  [Session-ID](https://replit.com/@Kermhack5) <br>
-  [Replit](https://replit.com/@Kermhack5)
+   ## [`SCAN QR CODE`](https://replit.com/@Kermhack5) <br>
+  ## [`SCAN QR CODE`](https://replit.com/@Kermhack5)
 3. 
 
 ## Déploiement🧪
