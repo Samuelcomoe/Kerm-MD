@@ -1,17 +1,18 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "Kerm-MD",
+	"description": "Meilleur bot au monde pour te servir😎",
+	"logo": "https://i.imgur.com/iWNGLzw.jpg",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/Kermhack5/Kerm-MD",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
             "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":".,"
+            "value":"."
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
@@ -25,7 +26,7 @@
         },
         "READ_COMMAND": {
             "description": "Bot will read all commands (blue tick). Can be also false",
-            "required": true,
+            "required": false,
             "value":"true"
         },
        "HEROKU_API_KEY": {
@@ -51,17 +52,17 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"Kerm-MD"
         },
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
             "required": true,
-            "value":"Raganork,SKL11,91123456789,https://i.imgur.com/B2YWSLk.jpg"
+            "value":"Kerm-MD,Rayan,237656520674,https://i.imgur.com/iWNGLzw.jpg"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"Kerm-MD;Rayan;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
         },
         "MODE": {
             "description": "Private or public",
@@ -71,7 +72,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"237656520674"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
