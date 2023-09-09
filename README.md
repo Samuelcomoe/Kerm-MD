@@ -6,12 +6,11 @@
 ![banner](https://i.imgur.com/iWNGLzw.jpg)
 
  Kerm-MD est un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Kerm-MD est là pour vous aider.
-
-##SUPPORT™️
-
-href="https://chat.whatsapp.com/Lhe8NfoMccQFNqRyamiUut" target="_blank">
+ 
+<p align="center">
+ <a href="https://chat.whatsapp.com/FixEhA9BNH46sYyLOAqCps" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
-    
+  
 ## Fonctionnalités Principales
 
 - **Téléchargement de Fichiers :** Kerm-MD peut télécharger des fichiers audio et vidéo à partir de liens que vous lui envoyez, pour que vous puissiez les partager facilement avec vos contacts.
