@@ -7,7 +7,7 @@
 
  Kerm-MD est un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Kerm-MD est là pour vous aider.
  
- ***[JOIN SUPPORT GROUP](https://chat.whatsapp.com/Lhe8NfoMccQFNqRyamiUut)***
+ ***## [`SUPPORT WHATSAPP KERM-MD`](https://chat.whatsapp.com/Lhe8NfoMccQFNqRyamiUut)***, https://i.imgur.com/iWNGLzw.jpg
   
 ## Fonctionnalités Principales
 
@@ -24,7 +24,7 @@
 
 ## Obtenir Kerm-MD🎊
 
-1. Veillez cliquer sur **[Fork Kerm-MD here](https://github.com/Kermhack5/Kerm-MD/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
+1. Veillez cliquer sur **## [`FORK KERM-MD`](https://github.com/Kermhack5/Kerm-MD/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
 2. Obtenez une session du bot : <br>
    ## [`SCAN QR CODE`](https://replit.com/@Kermhack5) <br>
